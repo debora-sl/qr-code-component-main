@@ -5,3 +5,7 @@ body{
     flex-direction: column;
     margin-top: 80px;
 }
+
+a{
+    text-decoration: none;
+}
